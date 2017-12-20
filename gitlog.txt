@@ -1,0 +1,302 @@
+/* Daniel Sohn & Richard Guo
+* dsohn3, rguo7
+* dsohn3@jhu.edu, rguo7@jhu.edu
+* 601.220
+* 10/16/17
+* MIDTERM PROJECT
+*/
+
+commit 8c74eae1381b00c83cea5736e88807359422de92
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Sun Oct 15 20:44:14 2017 -0400
+
+    Fixed double error messages
+
+commit 7860b8c4f5f741f9ae48febb768051720fa8462f
+Merge: ff2dc16 48b843f
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Sun Oct 15 20:41:45 2017 -0400
+
+    fixed error
+
+commit 48b843f8689b086504c418fad68f6bf23eb38bea
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sun Oct 15 20:39:55 2017 -0400
+
+    deleted some files
+
+commit ff2dc16431154c1d7dfc772fd2d6a9926c471626
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Sun Oct 15 20:35:40 2017 -0400
+
+    Added comments for main
+
+commit 7381ece8865c2741f672125d4be3d5efd16d5832
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sun Oct 15 20:31:25 2017 -0400
+
+    menu changes
+
+commit ad3532232fba8c2bb17a29455760bdaaf9765fbd
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sun Oct 15 20:17:26 2017 -0400
+
+    deleted line
+
+commit 7c551085c9e9fd98c3d2082fbc6febdb7955d7b1
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sun Oct 15 20:08:42 2017 -0400
+
+    comment
+
+commit c0e303aef8affbb02e791d297661fb11a9ded3e3
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sun Oct 15 20:02:09 2017 -0400
+
+    menu error
+
+commit 44df5f815ad830735f7945594fe6612301a14ce2
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 14 14:27:17 2017 -0400
+
+    got rid of print statements, added menuError to r
+
+commit 3d28768e4e1161546d5ce412de76fb3e9b00c4fb
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 14 14:25:54 2017 -0400
+
+    added todo
+
+commit cc1517e301fa76bb40e9cdd08561f10a0f4d4c70
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 14 14:24:09 2017 -0400
+
+    working edge detect
+
+commit 18d751180ee22e388167154160831f761bcf2741
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 14 14:11:41 2017 -0400
+
+    menu options
+
+commit 98dce67e3a2bccd101db0bf353f685db378fb045
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 14 14:07:42 2017 -0400
+
+    finished edge detect, have to test
+
+commit abbc0d0bcf9cd02da0fbc87174fd293207b970a2
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 14 13:59:24 2017 -0400
+
+    gradient functions
+
+commit 479790d43103827fea9182050b31357b468110c3
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 14 13:48:34 2017 -0400
+
+    working on edge detect
+
+commit 2ad72f9dc3ffce61366061e29fc917ac93292d07
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Fri Oct 13 16:43:12 2017 -0400
+
+    crop corner check
+
+commit d82e59412c904c7ef5336ba28ad920303dbf9cd6
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Fri Oct 13 16:38:53 2017 -0400
+
+    im a dumdum and flipped x and y, fixed crop
+
+commit d62d8a378b7d3004e2e2570972b7afe5edc27f10
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Fri Oct 13 16:29:26 2017 -0400
+
+    found bug in crop, trying to fix
+
+commit ccef4c22646da7d0120947cb2861c404b8acdc47
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Fri Oct 13 01:33:26 2017 -0400
+
+    crop done
+
+commit aa44dcc53cd5096a30cd5de14aa3678260fb0640
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Wed Oct 11 17:06:41 2017 -0400
+
+    Fixed ppmIO to always check for comments
+
+commit b0cc86570acfd2ba700bb6aeb176d3ce2839efbf
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Wed Oct 11 16:44:23 2017 -0400
+
+    Doesn't crash if bad read file input
+
+commit 0ae5f479903b7aa55f8bc6ae58273f636e88640a
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Mon Oct 9 18:23:27 2017 -0400
+
+    Fixed edges of blur
+
+commit 83b694b33cdd33b8fd1a8173f3960aadfbd8361a
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Mon Oct 9 17:32:23 2017 -0400
+
+    cleaned stuff up
+
+commit 6b1f8a6219391c11f7e96cde2813f08b7000706b
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Mon Oct 9 17:23:03 2017 -0400
+
+    Dealt with bad inputs
+
+commit 563a8a1263eb7bff01c33b154780b2b423a025f2
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Mon Oct 9 12:56:49 2017 -0400
+
+    Cleaned up some of blur code
+
+commit 819bab70710fcf303cdb33a9335a75d47a2b7a87
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Sun Oct 8 23:37:48 2017 -0400
+
+    Done with blur
+
+commit 07390b577b7c16eb8ddf6131cfbbe37db0dec182
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Sun Oct 8 21:04:55 2017 -0400
+
+    Fixed valgrind error
+
+commit 41c024a01a613ecc20cf77da70d887b8c1f6dedf
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sun Oct 8 00:05:11 2017 -0400
+
+    better freeing?
+
+commit 945321140bdb86e80aa2410e6955d2ad3564e683
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sun Oct 8 00:03:50 2017 -0400
+
+    updated some todos
+
+commit 80734d2f1f9cbf85e447e2af9e1c5653e690ef4d
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 7 23:53:21 2017 -0400
+
+    updated gitignore, contrast done
+
+commit df6347d757909f9b5f98c9ad60ada7313fe6fe2c
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 7 23:09:57 2017 -0400
+
+    brighten
+
+commit c7b33fa83f3bc3bbf83e7ef09cdaa63a3ed78634
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Sat Oct 7 22:56:17 2017 -0400
+
+    swap colors done
+
+commit 68d4932e0c0e0b66153f2f3405bf598a48f99c94
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Fri Oct 6 21:24:28 2017 -0400
+
+    got rid of warnings, added gitignore
+
+commit 2097cf1a480406635f3b5a3d39eb4f82aa540823
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 23:48:58 2017 -0400
+
+    Makefile updated
+
+commit 492c8dac58f924bc810f069a2f0d9320aa54fa9a
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 23:47:39 2017 -0400
+
+    Made all files works
+
+commit bc88a488caa383c952f3470f7eadf04642f19cf6
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 23:44:19 2017 -0400
+
+    Forgot to free memory in menuUtil.c
+
+commit b8df2528a8f3bb22a0962f2c95cec337b4916341
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 23:37:37 2017 -0400
+
+    Choice 'r' and 'w' work, program displays menu
+
+commit 62b37a1450c3f62f4cd59e242ff22d22ff964c20
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 23:01:16 2017 -0400
+
+    cleaned up files
+
+commit e9b1ac31d0e3b1f4e46be31087f158131ccb3628
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 23:00:14 2017 -0400
+
+    DONE WITH PPMIO
+
+commit a43def929839febc150f5965f4637e717edbffeb
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 21:51:42 2017 -0400
+
+    Save function works
+
+commit c40696e1c17de6705e517a4964eeeced7c111d67
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 21:13:38 2017 -0400
+
+    Almost finished ppmIO but seg fault
+
+commit 4d61d9c39db1d648ed483b52d7632daa25b7bafe
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 21:13:18 2017 -0400
+
+    Almost finished ppmIO but seg fault
+
+commit 2131ce984311f932c0e5fb94ba9c83b1956c97d2
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 20:03:59 2017 -0400
+
+    Cleaned up useless files
+
+commit a76ad4d15749edb79c5fc2ad09d63b79ae53d973
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 20:03:04 2017 -0400
+
+    Made structHeader.h with Pixel and Image structs
+
+commit 3966d18bbe4aea405f4acef5e9ec059097b25bec
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 19:48:15 2017 -0400
+
+    Added structDef files
+
+commit 7efaddba977bb23224b4e126d8a76a165b47dee7
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 19:47:24 2017 -0400
+
+    Added includes to files
+
+commit 65ce52782e571236537cb53a52fe3c39e5fe139b
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 19:23:13 2017 -0400
+
+    fixed make clean
+
+commit 6793b58f471acc1587228e4505a9384e820d1c77
+Author: rguo123 <richardg7890@gmail.com>
+Date:   Tue Oct 3 19:21:33 2017 -0400
+
+    created all basic files
+
+commit 1b88f1b7b9a15abafe4710a32247e1346d6f1ca6
+Author: Daniel Sohn <dsohn45@gmail.com>
+Date:   Tue Oct 3 19:12:47 2017 -0400
+
+    added starter files
